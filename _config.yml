@@ -1,0 +1,16 @@
+title: Deepak Jamwal # your name (or website title) here
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+  <b>Certified Data Scientist with 7 months hands-on experience as a contributor, in Appen ltd, a bachelor's in Corporate affairs and administration, a Post grad in Machine Learning and AI, and Pursuing a Master's in Machine Learning and  AI.<b>
+  <br><br>
+  **Fast paced learner with Strong Attention to details.**
+  <br><br>
+  <a href="https://www.linkedin.com/in/deepakjamwal/">View My LinkedIn Profile</a> 
+  
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme 
+
+colors:
+  crimson: '#900C3F'
